@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NeghiDB
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning new ways to solve problems
+- 💞️ I’m looking to collaborate in solving problems
+- 📫 You can reach me via email at neghianruwa@gmail.com
